@@ -12,3 +12,4 @@
 | 6    | [705. 设计哈希集合](https://leetcode-cn.com/problems/design-hashset/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/设计哈希集合.md) | 简单       | 数组  |
 | 7    | [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/) | [Python](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/设计哈希映射.md) | 简单       | 数组  |
 | 8    | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [Python](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/螺旋矩阵.md) | 中等       | 数组  |
+| 9    | [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [Python](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/螺旋矩阵%20II.md) | 中等       | 数组  |
