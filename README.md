@@ -16,3 +16,5 @@
 | 10   | [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/不同的子序列.md) | 困难       | DP    |
 | 11   | [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/反转链表%20II.md) | 中等       | List  |
 | 12   | [1603. 设计停车系统](https://leetcode-cn.com/problems/design-parking-system/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/设计停车系统.md) | 简单       | 类    |
+| 13   | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/逆波兰表达式求值.md) | 中等       | 栈    |
+
