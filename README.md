@@ -20,4 +20,5 @@
 | 14   | [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [Python](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/矩阵置零.md) | 中等       | 数组   |
 | 15   | [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/位1的个数.md) | 简单       | 位运算 |
 | 16   | [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/扁平化嵌套列表迭代器.md) | 中等       | DFS    |
+| 17   | [456. 132 模式](https://leetcode-cn.com/problems/132-pattern/) | [132 模式](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/132%20模式.md) | 中等       | 栈     |
 
