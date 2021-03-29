@@ -25,4 +25,5 @@
 | 19   | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/删除排序链表中的重复元素.md) | 简单       | 链表   |
 | 20   | [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/旋转链表.md) | 中等       | 链表   |
 | 21   | [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/二叉搜索树迭代器.md) | 中等       | 二叉树 |
+| 22   | [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | [JAVA](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/颠倒二进制位.md) | 简单       | 位运算 |
 
