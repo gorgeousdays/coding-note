@@ -27,4 +27,5 @@
 | 21   | [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/二叉搜索树迭代器.md) | 中等       | 二叉树 |
 | 22   | [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | [JAVA](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/颠倒二进制位.md) | 简单       | 位运算 |
 | 23   | [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [C++&Python](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/搜索二维矩阵.md) | 中等       | 查找   |
+| 24   | [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)  | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/子集%20II.md) | 中等       | 回溯   |
 
