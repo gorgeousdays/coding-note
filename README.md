@@ -31,4 +31,5 @@
 | 25   | [1006. 笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/笨阶乘.md) | 中等       | 栈             |
 | 26   | [面试题 17.21. 直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/直方图的水量.md) | 中等       | 双指针         |
 | 27   | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/最长公共子序列.md) | 中等       | 最长公共子序列 |
+| 28   | [781. 森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/森林中的兔子.md) | 中等       | 贪心           |
 
