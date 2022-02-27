@@ -1,6 +1,6 @@
 # LeetCode
 
-**LeetCode刷题笔记**
+### LeetCode刷题笔记
 
 | #    | Id、Title                                                    | Solution                                                     | Difficulty | Notes          |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | -------------- |
@@ -34,4 +34,11 @@
 | 28   | [781. 森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/森林中的兔子.md) | 中等       | 贪心           |
 | 29   | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/合并两个有序数组.md) | 简单       | 双指针         |
 | 30   | [80. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](https://github.com/gorgeousdays/LeetCode/blob/main/LeetCode/删除有序数组中的重复项%20II.md) | 中等       | 双指针         |
+
+### LeetCode20天[算法]刷题计划
+
+| Day  | Id、Title                                                    | Solution                                                     | Note     |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| Day1 | [704.二分查找](https://leetcode-cn.com/problems/binary-search/)  [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day1.md) | 二分查找 |
+|      |                                                              |                                                              |          |
 
