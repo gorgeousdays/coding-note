@@ -42,4 +42,6 @@
 | Day1 | [704.二分查找](https://leetcode-cn.com/problems/binary-search/)  [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day1.md) | 二分查找 |
 | Day2 | [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)  [189. 轮转数组](https://leetcode-cn.com/problems/rotate-array/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day2.md) | 双指针   |
 | Day3 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)    [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day3.md) | 双指针   |
+| Day4 | [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)    [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day3.md) | 双指针   |
+| Day5 | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)    [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day3.md) | 双指针   |
 
