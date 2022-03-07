@@ -47,4 +47,5 @@
 | Day6 | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)   [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day6.md) | 滑动窗口          |
 | Day7 | [733. 图像渲染](https://leetcode-cn.com/problems/flood-fill/)  [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day7.md) | 广度优先/深度优先 |
 | Day8 | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)  [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day8.md) | 广度优先/深度优先 |
+| Day9 | [542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix/)    [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day9.md) | 广度优先/深度优先 |
 
