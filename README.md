@@ -52,4 +52,5 @@
 | Day11 | [77. 组合](https://leetcode-cn.com/problems/combinations/)  [46. 全排列](https://leetcode-cn.com/problems/permutations/)  [784. 字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day11.md) | 递归/回溯         |
 | Day12 | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)  [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day12.md) | 动态规划          |
 | Day13 | [231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)  [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day13.md) | 位运算            |
+| Day14 | [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)  [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day14.md) | 位运算            |
 
