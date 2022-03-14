@@ -37,6 +37,8 @@
 
 ### LeetCode20天[算法]刷题计划
 
+#### 算法入门
+
 | Day   | Id、Title                                                    | Solution                                                     | Note              |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- |
 | Day1  | [704.二分查找](https://leetcode-cn.com/problems/binary-search/)  [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day1.md) | 二分查找          |
@@ -53,4 +55,10 @@
 | Day12 | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)  [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day12.md) | 动态规划          |
 | Day13 | [231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)  [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day13.md) | 位运算            |
 | Day14 | [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)  [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day14.md) | 位运算            |
+
+#### 算法基础
+
+| Day   | Id、Title                                                    | Solution                                                     | Note     |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| Day15 | [34. 在排序数组中查找元素的第一个和最后](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day15.md) | 二分查找 |
 
