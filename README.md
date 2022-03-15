@@ -61,4 +61,5 @@
 | Day   | Id、Title                                                    | Solution                                                     | Note     |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | Day15 | [34. 在排序数组中查找元素的第一个和最后](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day15.md) | 二分查找 |
+| Day16 | [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)  [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day16.md) | 二分查找 |
 
