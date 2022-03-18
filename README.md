@@ -64,4 +64,5 @@
 | Day16 | [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)  [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day16.md) | 二分查找 |
 | Day17 | [82. 删除排序链表中的重复元素 II ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) [15. 三数之和](https://leetcode-cn.com/problems/3sum/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day17.md) | 双指针   |
 | Day18 | [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/)  [986. 区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections/)  [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day18.md) | 双指针   |
+| Day19 | [438. 找到字符串中所有字母异](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)  [713. 乘积小于K的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)  [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day19.md) | 滑动窗口 |
 
