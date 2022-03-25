@@ -71,4 +71,5 @@
 | Day23 | [78. 子集](https://leetcode-cn.com/problems/subsets/)  [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day23.md) | 递归 / 回溯                 |
 | Day24 | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)  [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)  [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day24.md) | 递归 / 回溯                 |
 | Day25 | [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day25.md) | 递归 / 回溯                 |
+| Day26 | [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)  [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day26.md) | 动态规划                    |
 
