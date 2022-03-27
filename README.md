@@ -73,4 +73,5 @@
 | Day25 | [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day25.md) | 递归 / 回溯                 |
 | Day26 | [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)  [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day26.md) | 动态规划                    |
 | Day27 | [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)  [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day27.md) | 动态规划                    |
+| Day28 | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)  [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day28.md) | 动态规划                    |
 
