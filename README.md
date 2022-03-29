@@ -74,4 +74,6 @@
 | Day26 | [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)  [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day26.md) | 动态规划                    |
 | Day27 | [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)  [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day27.md) | 动态规划                    |
 | Day28 | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)  [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day28.md) | 动态规划                    |
+| Day29 | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)  [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day29.md) | 动态规划                    |
+| Day30 | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day30.md) | 动态规划                    |
 
