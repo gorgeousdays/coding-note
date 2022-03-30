@@ -76,4 +76,5 @@
 | Day28 | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)  [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day28.md) | 动态规划                    |
 | Day29 | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)  [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day29.md) | 动态规划                    |
 | Day30 | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day30.md) | 动态规划                    |
+| Day31 | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)  [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day31.md) | 动态规划                    |
 
