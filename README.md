@@ -78,4 +78,5 @@
 | Day30 | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day30.md) | 动态规划                    |
 | Day31 | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)  [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day31.md) | 动态规划                    |
 | Day32 | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/)  [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)  [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day32.md) | 动态规划                    |
+| Day33 | [201. 数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | [Java](https://github.com/gorgeousdays/LeetCode/blob/main/20DAYS/Day33.md) | 位运算                      |
 
